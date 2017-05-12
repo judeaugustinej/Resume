@@ -1,5 +1,6 @@
-# Jude Augustine Job                                                                #### TN, Chennai
+                                                                                    #### TN, Chennai
                                                                                     #### judeaugustinej@gmail.com
+# Jude Augustine Job 
 
 
 ## Technical Skills
