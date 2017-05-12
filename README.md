@@ -1,7 +1,8 @@
-# Jude Augustine Job
+# Jude Augustine Job                                                                #### TN, Chennai
+                                                                                    #### judeaugustinej@gmail.com
 
 
-#### Skills
+## Technical Skills
 * Languages: JavaScrip, Python & Scala.
 * Web-Frameworks: Django, Flask, Tornado, React
 * Database: Postgres, Mongo, Influx
@@ -10,10 +11,15 @@
 * DevOps: SaltStack
 * Heroku, AWS, OpenStack.
 ---
-#### Experience
+## Experience
 ---
-#### Hackathon
+## Hackathon
+*
+
+*
+
+*
 ---
 
-#### Public Artifacts
+## Public Artifacts
 
