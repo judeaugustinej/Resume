@@ -1,5 +1,3 @@
-                                                                                    #### TN, Chennai
-                                                                                    #### judeaugustinej@gmail.com
 # Jude Augustine Job 
 
 
@@ -15,11 +13,11 @@
 ## Experience
 ---
 ## Hackathon
-*
+* HCL-CODC Hackathon
 
-*
+* UI/UX Event
 
-*
+* SaveTheHacker
 ---
 
 ## Public Artifacts
