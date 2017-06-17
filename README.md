@@ -7,7 +7,7 @@
 * Database: Postgres, Mongo, Influx
 * Queus/PubSub: RabbitMQ, Redis
 * Big-Data: Splunk
-* DevOps: SaltStack
+* DevOps: SaltStack, Docker, Kubernetes
 * Heroku, AWS, OpenStack.
 ---
 ## Experience
